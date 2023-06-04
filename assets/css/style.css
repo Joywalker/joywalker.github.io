@@ -15206,8 +15206,7 @@ div#featured-project-carousel {
   margin-bottom: 25px;
 }
 .testimonial-style-2 .testimonial-inner .testimonial-header .thumbnail img {
-  width: 50px;
-  border-radius: 50%;
+  width: 80px;
 }
 .testimonial-style-2 .testimonial-inner .testimonial-header .ts-header {
   font-size: 14px;
@@ -15217,13 +15216,14 @@ div#featured-project-carousel {
 }
 .testimonial-style-2 .testimonial-inner .testimonial-body p.discription {
   font-size: 16px;
-  line-height: 28px;
+  line-height: 20px;
   color: var(--color-lightn);
-  margin-bottom: 22px;
+  margin-bottom: 20px;
   transition: var(--transition);
   margin: 0;
   font-weight: 400;
   text-align: left;
+  height: 100%;
 }
 .testimonial-style-2 .testimonial-inner .testimonial-body p.discription span {
   text-decoration: underline;
